@@ -1,0 +1,45 @@
+{
+	"profile":{
+		"img":"images.png",
+		"name":"Bhargavi devi",
+		"roll":"508",
+		"place":"Kakinada"
+	},
+	"career":{
+		"info":"to work as a software engineering"
+	},
+	"education":[
+		{
+		  "sno":"1",
+          "degree":"b.tech",
+          "institute":"pragati engineering college",
+          "percentage":"82%",
+          "year":"2021"
+		},
+		{
+			"sno":"2",
+		  "degree":"intermediate",
+		  "institute":"Narayana",
+		  "percentage":"95%",
+		  "year":"2017"
+		},
+		{
+			"sno":"3",
+			"degree":"ssc",
+			"institute":"LTBS",
+			"percentage":"95%",
+			"year":"2015"
+		}
+	],
+	"language":[
+		{
+			"lang":"english"
+		},
+		{
+			"lang":"telugu"
+		},
+		{
+			"lang":"hindi"
+		}
+	]
+}
